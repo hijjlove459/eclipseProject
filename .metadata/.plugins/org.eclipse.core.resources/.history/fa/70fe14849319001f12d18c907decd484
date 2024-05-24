@@ -1,0 +1,10 @@
+ 
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+    <div data-role="footer">
+        <p class="version"> v2.0</p>
+        <p>Copyrightⓒ 2020 Korea </p>
+        <div style="text-align:center;">
+			<a href="javascript:goInfo();" class="InfoBtn" data-role="none"><font color='#ffffff'>정보</font></a>
+            <a href="tel:02-2222-2222" class="lnfoBtn" data-role="none"><font color='#ffffff'>헬프데스크 02-2222-2222</font></a>                    				
+		</div>
+    </div>	
